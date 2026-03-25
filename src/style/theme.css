@@ -1,0 +1,12 @@
+/* Example theme variables, adjust as needed */
+:root {
+  --color-primary: #6366f1;
+  --color-secondary: #a5b4fc;
+  --color-background: #fff;
+  --color-foreground: #111;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+}
